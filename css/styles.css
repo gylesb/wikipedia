@@ -6,6 +6,7 @@
 
 .left-box {
   margin: 20px;
+  margin-right: 0px;
   border: 2px solid green;
   padding: 10px;
 }
@@ -25,8 +26,26 @@
 }
 
 .right-box {
-
+  margin: 20px;
+  margin-left: 0px;
+  border: 2px solid blue;
+  padding: 10px;
 }
+
+.inner-right-box {
+  background-color: #A4DDFE;
+  text-align: center;
+  margin: 20px;
+  border: 2px solid blue;
+  padding: 7px;
+  font-weight: bolder;
+}
+
+.rboximg {
+  float: right;
+  padding: 20px;
+}
+
 
 .header {
   text-align: center;
