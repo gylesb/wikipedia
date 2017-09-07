@@ -4,6 +4,30 @@
   padding: 40px;
 }
 
+.left-box {
+  margin: 20px;
+  border: 2px solid green;
+  padding: 10px;
+}
+
+.inner-left-box {
+  background-color: #B2ED96;
+  text-align: center;
+  margin: 20px;
+  border: 2px solid green;
+  padding: 7px;
+  font-weight: bolder;
+}
+
+.lboximg {
+  float: left;
+  padding: 20px;
+}
+
+.right-box {
+
+}
+
 .header {
   text-align: center;
   font-size: 20px
